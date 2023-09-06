@@ -1,0 +1,7 @@
+﻿namespace prueba1.Views.Home
+{
+    public class cambio
+    {
+        int a;
+    }
+}
